@@ -21,3 +21,5 @@ From the terminal: Open your terminal, navigate into the cloned folder (cd folde
 From VS Code itself: Open VS Code, go to File > Open Folder... (or File > Open... on macOS), and select the folder of the repository you just cloned.
 
 Using the Command Palette: Press Ctrl + Shift + P (or Cmd + Shift + P on Mac), type Open Folder, and select your repository folder.
+
+Hussain
